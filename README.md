@@ -12,17 +12,7 @@ Skriv en kort beskrivning av vad du ska bygga och vad applikationen ska kunna g�
 
 ## Arbetslogg
 
-### Dag 1 – Datum:
-- Vad har jag gjort?
-- Vad har jag lärt mig?
-- Vad behöver jag göra härnäst?
-
-### Dag 2 – Datum:
-- Vad har jag gjort?
-- Vad har jag lärt mig?
-- Vad behöver jag göra härnäst?
-
-### Dag 3 – Datum:
+### Dag 1 – Datum: 19.11
 - Vad har jag gjort?
 - Vad har jag lärt mig?
 - Vad behöver jag göra härnäst?
